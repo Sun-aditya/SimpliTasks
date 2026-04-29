@@ -270,16 +270,3 @@ Main Tabs
 
  👨‍💻 Developer
 
-Alle Karthik
-
- GitHub: [@Allekarthik](https://github.com/Allekarthik)
- Project: [TaskManagerApp](https://github.com/Allekarthik/TaskManagerApp)
-
-
-
- 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Allekarthik/TaskManagerApp/issues).
-
